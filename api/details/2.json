@@ -1,0 +1,9 @@
+{
+  "id": 2,
+  "title": "Pepsi 330ml",
+  "category": "Beverage"
+  "description": "Aenean a finibus nunc. Donec convallis, leo id venenatis eleifend, libero sapien sodales lectus, faucibus ornare ante leo in ex. Pellentesque tincidunt mauris at urna porttitor, vel aliquam urna imperdiet. Cras ornare purus eu felis accumsan, ultrices egestas magna malesuada. Ut faucibus auctor bibendum. Suspendisse massa sem, molestie vitae ante in, ultricies laoreet quam. Sed tincidunt mattis mauris, vitae scelerisque felis auctor vel.",
+  "qty_available": 12,
+  "qty_sold": 0,
+  "creator_id": 2
+}
