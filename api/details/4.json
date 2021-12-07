@@ -1,0 +1,9 @@
+{
+  "id": 4,
+  "title": "Chips",
+  "category": "Food"
+  "description": "Ut vestibulum vitae erat quis semper. Nullam urna nibh, iaculis eget risus a, consectetur vestibulum magna. Cras viverra erat vitae ex imperdiet viverra. Nam gravida arcu ultrices dui convallis elementum. Cras id ipsum ut nibh congue euismod. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce sodales eu mauris sit amet tempus. Integer et risus nec enim scelerisque mattis sed sed diam. Suspendisse dignissim et nisl nec tincidunt. Vivamus suscipit tempor efficitur. Integer lacus arcu, suscipit eget libero sit amet, euismod varius arcu. Praesent neque sapien, suscipit ac purus vitae, consectetur mattis odio. Suspendisse eleifend imperdiet lacus, et blandit neque semper sit amet. Nunc non nibh mauris. Duis pharetra, tortor nec auctor malesuada, tortor tortor posuere eros, feugiat pellentesque urna neque et quam. Ut ultricies diam eros, eget aliquam sem vestibulum ut.",
+  "qty_available": 124,
+  "qty_sold": 87765,
+  "creator_id": 1
+}
