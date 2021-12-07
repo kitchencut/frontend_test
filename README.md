@@ -7,12 +7,12 @@
 - Must have an open text filter to search by title
 - Mush have an select filter to search by category
 
-
 3. Create an page to show the details of the record
-4. The APP must to be responsive Desktop + Mobile
+- Must include the name of the creator
+5. The APP must to be responsive Desktop + Mobile
 
 # Info
 - The structure of the JSON can be found on api/
 - Use React or Vue.js
-- Pay attention on good practices and design patterns
+- Pay attention on good practices, design patterns, UI and performance
 - Zip your code and send back to the recruiter
