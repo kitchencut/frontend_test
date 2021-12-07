@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Coke 330ml",
+    "category": "Beverage"
+  },
+  {
+    "id": 2,
+    "title": "Pepsi 330ml",
+    "category": "Beverage"
+  },
+  {
+    "id": 3,
+    "title": "Cheeseburger",
+    "category": "Food"
+  },
+  {
+    "id": 4,
+    "title": "Chips",
+    "category": "Food"
+  }
+]
