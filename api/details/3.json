@@ -1,0 +1,9 @@
+{
+  "id": 3,
+  "title": "Cheeseburger",
+  "category": "Food"
+  "description": "Aenean aliquam a sem sed consectetur. Praesent vitae quam eget nisl luctus iaculis. Proin ut finibus enim. Cras quam metus, convallis ut mattis ac, fringilla in urna. Curabitur mattis iaculis scelerisque. Mauris efficitur rutrum ex, vel pulvinar augue pretium sagittis. Curabitur luctus massa iaculis, maximus erat vitae, condimentum dolor. Curabitur vitae venenatis ante, a tristique nisi. Sed in pharetra magna, nec dignissim ipsum.",
+  "qty_available": 0,
+  "qty_sold": 12,
+  "creator_id": 2
+}
