@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "title": "Coke 330ml",
+  "category": "Beverage",
+  "description": "Lorem ipsum dolor sit amet",
+  "qty_available": 4,
+  "qty_sold": 12,
+  "creator_id": 1
+}
