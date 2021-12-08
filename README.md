@@ -5,7 +5,7 @@
 2. Create an page that list the result of the API
 - Must have a link to open the details of the record
 - Must have an open text filter to search by title
-- Mush have an select filter to search by category
+- Must have an select filter to search by category
 
 3. Create an page to show the details of the record
 - Must include the name of the creator
